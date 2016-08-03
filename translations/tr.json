@@ -29,7 +29,7 @@
 "totalCount":"Toplam Sayisi:",
 "pokemonNotToTransfer":"Transfer edilmeyecek",
 "selectAll":"Hepsini Sec",
-"pokemonNotToCatch":"Yakalanmasini istemedigimiz",
+"pokemonNotToCatch":"Yakalanmasini istemediginiz",
 "pokemonNotToEvolve":"Evolve edilecekler",
 "saveConfig":"Ayarlari Kaydet / Botu Baslat",
 "otherSettings":"Diger Ayarlar",
@@ -37,6 +37,6 @@
 "germanPokemonNames":"Almanca Pokemon Isimleri",
 "useIncese":"30 Dakikada bir Incense kullan",
 "evolvePokemonIfEnoughCandy":"Pokemonlari sekeri yetiyorsa evolve et",
-"enablePokemonListGUI":"Pokemon listesini aktif et",
+"enablePokemonListGUI":"Pokemon listesi arayuzunu aktif et",
 "keepPokemonWhichCanBeEvolved":"Evolve edilebilen pokemonlari tut"
 }
